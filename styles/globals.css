@@ -22,7 +22,7 @@ p {
 }
 
 ul {
-  background-color: aqua;
+  background-color: greenyellow;
   overflow: hidden;
   padding: 0%;
   margin: 0%;
@@ -31,6 +31,7 @@ ul {
 
 li {
   color: black;
+  font-weight: 500%;
   float: left;
   padding: 20px;
 }
